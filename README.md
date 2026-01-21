@@ -47,3 +47,5 @@ Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Fron
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+![Snake animation](https://github.com/GUIOLI08/guilhermeoliver/blob/output/github-contribution-grid-snake.svg)

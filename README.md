@@ -45,7 +45,3 @@ Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Fron
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
-<br>
-
-> "Código é como humor. Quando você tem que explicar, é ruim."

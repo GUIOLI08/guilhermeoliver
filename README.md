@@ -37,7 +37,6 @@ Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Fron
 </div>
 
 ---
-<br>
 
 ## 📫 Entre em contato
 <div> 

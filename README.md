@@ -17,12 +17,12 @@
  
 <p align="center">
   <a href="mailto:guilherme.oliver@msn.com" title="Email">
-    <img height="36" style="filter: invert(29%) sepia(92%) saturate(7465%) hue-rotate(357deg) brightness(97%) contrast(109%);" 
+    <img height="36"
          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank" title="LinkedIn">
-    <img height="36" style="filter: invert(32%) sepia(77%) saturate(2478%) hue-rotate(180deg) brightness(94%) contrast(101%);" 
+    <img height="36" 
          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg">
   </a>
 </p>

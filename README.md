@@ -22,7 +22,6 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
 </div>
 
 ---
-<br>
 
 ## 📊 Estatísticas do GitHub
 

@@ -1,6 +1,6 @@
 ## Olá eu sou Guilherme Oliver um Desenvolvedor Front-End | Back-End!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

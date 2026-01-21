@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Oliver! 👋
+# Olá, eu sou o Guilherme Oliver!
 ### Desenvolvedor Full-Stack (Front-End & Back-End)
 
 ---

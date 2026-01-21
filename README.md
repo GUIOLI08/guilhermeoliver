@@ -47,4 +47,4 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
   </a> 
 </div>
 
-![Snake animation](https://github.com/GUIOLI08/guilhermeoliver/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GUIOLI08/GUIOLI08/blob/output/github-contribution-grid-snake.svg)

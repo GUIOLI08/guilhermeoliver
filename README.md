@@ -7,7 +7,6 @@
 Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js para construir aplicações robustas, unindo um Back-End performático a interfaces modernas no Front-End.
 
 ---
-<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 

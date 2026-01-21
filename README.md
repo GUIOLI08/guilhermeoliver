@@ -16,7 +16,6 @@
   ##
  
 <div> 
-  [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?logo=microsoftoutlook&logoColor=white)](mailto:guilherme.oliver@msn.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:guilherme.oliver@msn.com)
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

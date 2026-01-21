@@ -1,25 +1,51 @@
-## Olá eu sou Guilherme Oliver um Desenvolvedor Front-End | Back-End!
+# Olá, eu sou o Guilherme Oliver! 👋
+### Desenvolvedor Full-Stack (Front-End & Back-End)
 
-<div style="display: flex;">
+---
+
+## 🚀 Sobre Mim
+Eu sou um desenvolvedor apaixonado por criar soluções eficientes tanto no Front-End quanto no Back-End. Atualmente, foco meu stack em tecnologias modernas como TypeScript, Node.js e bancos de dados relacionais.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://github.com/GUIOLI08">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true">
+  </a>
+  <a href="https://github.com/GUIOLI08">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=dark">
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gui-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
-  ##
- 
+---
+
+## 📫 Entre em contato
 <div> 
-  <a href = "mailto:guilherme.oliver@msn.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-oliver-75620536a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:guilherme.oliver@msn.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-oliver-75620536a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
+
+<br>
+
+> "Código é como humor. Quando você tem que explicar, é ruim."

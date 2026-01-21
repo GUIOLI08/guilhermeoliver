@@ -15,14 +15,7 @@
   
   ##
  
-<p align="center">
-  <a href="mailto:guilherme.oliver@msn.com" title="Email">
-    <img height="36"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank" title="LinkedIn">
-    <img height="36" 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg">
-  </a>
-</p>
+<div> 
+  <a href = "mailto:guilherme.oliver@msn.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-oliver-75620536a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

@@ -27,13 +27,7 @@ Desenvolvedor Full Stack em constante evolução. Utilizo TypeScript e Node.js p
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap:50px; justify-content: center;">
   <a href="https://github.com/GUIOLI08">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true">
-    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioli08&show_icons=true&theme=dark&include_all_commits=true">
   </a>
   <a href="https://github.com/GUIOLI08">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioli08&layout=compact&theme=dark">
